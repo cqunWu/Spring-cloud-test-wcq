@@ -12,12 +12,12 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
+            <version>4.0.0</version>
         </dependency>
 
     </dependencies>
 
     <properties>
-        <spring.cloud-version>Hoxton.SR8</spring.cloud-version>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
